@@ -1,7 +1,7 @@
 # To-Do List Web Application
 
 ## Live Demo
-[https://your-username.github.io/ToDoList-App/](https://fellowone.github.io/to-Do-List/)  
+[https://fellowone.github.io/to-Do-List/](https://fellowone.github.io/to-Do-List/)  
 ---
 
 ## Project Overview
