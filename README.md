@@ -1,10 +1,7 @@
 # To-Do List Web Application
 
 ## Live Demo
-Once hosted using GitHub Pages, the project will be available at:  
 [https://your-username.github.io/ToDoList-App/](https://your-username.github.io/ToDoList-App/)  
-(Replace `your-username` with your GitHub username)
-
 ---
 
 ## Project Overview
