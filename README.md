@@ -1,10 +1,7 @@
 # To-Do List Web Application
 
 ## Live Demo
-Once hosted using GitHub Pages, the project will be available at:  
 [https://your-username.github.io/JavaScript-3/](https://your-username.github.io/JavaScript-3/)  
-(Replace `your-username` with your GitHub username)
-
 ---
 
 ## Project Overview
