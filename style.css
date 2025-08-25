@@ -1,0 +1,31 @@
+/* style.css */
+
+/* Page background */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Card container */
+.card {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+/* Completed task style */
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+/* Hover effect for tasks */
+.list-group-item:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+/* Buttons spacing */
+.btn-sm {
+    margin-left: 8px;
+}
