@@ -1,0 +1,31 @@
+/* style.css */
+
+/* General styles */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Card styling */
+.card {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+/* Completed task */
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+/* Hover effect for list items */
+.list-group-item:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+/* Edit and Delete button spacing */
+.btn-sm {
+    margin-left: 10px;
+}
